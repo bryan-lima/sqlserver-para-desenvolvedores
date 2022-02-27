@@ -1,0 +1,8 @@
+CREATE TABLE Alunos
+(
+    Id INT PRIMARY KEY IDENTITY,
+    Nome VARCHAR(80) NOT NULL,
+    Cpf CHAR(11) NOT NULL,
+    DataNascimento DATE,
+    Ativo BIT DEFAULT 1
+);
