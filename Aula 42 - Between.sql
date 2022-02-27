@@ -1,0 +1,4 @@
+SELECT * FROM Alunos;
+
+SELECT * FROM Alunos 
+WHERE Id BETWEEN 2 AND 4;
