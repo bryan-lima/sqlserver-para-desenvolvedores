@@ -11,38 +11,39 @@
 
 | **Aula** |           **Título**           | **Conteúdo** | **Carga Horária (min)** |
 |:--------:|:------------------------------:|:------------:|:-----------------------:|
-| Aula 02  | O que é SQL?                   | Teoria       | 3:00                    |
-| Aula 03  | O que é SQL Server?            | Teoria       | 8:00                    |
-| Aula 04  | História do SQL Server         | Teoria       | 5:00                    |
-| Aula 05  | O que é um modelo relacional?  | Teoria       | 4:00                    |
-| Aula 06  | O que é um banco de dados?     | Teoria       | 1:00                    |
-| Aula 07  | O que é uma tabela?            | Teoria       | 2:00                    |
-| Aula 08  | O que é uma chave primária?    | Teoria       | 2:00                    |
-| Aula 09  | O que é uma chave estrangeira? | Teoria       | 2:00                    |
-| Aula 10  | O que é T-SQL?                 | Teoria       | 2:00                    |
+| Aula 02  | Introdução                     | Teoria       | 1:00                    |
+| Aula 03  | O que é SQL?                   | Teoria       | 3:00                    |
+| Aula 04  | O que é SQL Server?            | Teoria       | 8:00                    |
+| Aula 05  | História do SQL Server         | Teoria       | 5:00                    |
+| Aula 06  | O que é um modelo relacional?  | Teoria       | 4:00                    |
+| Aula 07  | O que é um banco de dados?     | Teoria       | 1:00                    |
+| Aula 08  | O que é uma tabela?            | Teoria       | 2:00                    |
+| Aula 09  | O que é uma chave primária?    | Teoria       | 2:00                    |
+| Aula 10  | O que é uma chave estrangeira? | Teoria       | 2:00                    |
+| Aula 11  | O que é T-SQL?                 | Teoria       | 2:00                    |
 
 
 ## Módulo: Ambiente
 
 | **Aula** |             **Título**            | **Conteúdo** | **Carga Horária (min)** |
 |:--------:|:---------------------------------:|:------------:|:-----------------------:|
-| Aula 11  | Instalação do SQL Server          | Prática      | 2:00                    |
-| Aula 12  | Instalaçao do SQL Server (Docker) | Prática      | 5:00                    |
-| Aula 13  | Instalação do SSMS                | Prática      | 4:00                    |
-| Aula 14  | Instalação do Azure Data Studio   | Prática      | 4:00                    |
+| Aula 12  | Instalação do SQL Server          | Prática      | 2:00                    |
+| Aula 13  | Instalaçao do SQL Server (Docker) | Prática      | 5:00                    |
+| Aula 14  | Instalação do SSMS                | Prática      | 4:00                    |
+| Aula 15  | Instalação do Azure Data Studio   | Prática      | 4:00                    |
 
 
 ## Módulo: Hands-On-SQL Básico
 
 | **Aula** |         **Título**        |                                **Conteúdo**                                | **Carga Horária (min)** |
 |:--------:|:-------------------------:|:--------------------------------------------------------------------------:|:-----------------------:|
-| Aula 15  | Introdução                | Teoria                                                                     | 1:00                    |
-| Aula 16  | Criando um banco de dados | Prática                                                                    | 10:00                   |
-| Aula 17  | Criando uma tabela        | [Prática](./Scripts/Aula%2017%20-%20Criando%20um%20banco%20de%20dados.sql) | 8:00                    |
-| Aula 18  | Inserindo registros       | [Prática](./Scripts/Aula%2018%20-%20Criando%20uma%20tabela.sql)            | 5:00                    |
-| Aula 19  | Consultando registros     | [Prática](./Scripts/Aula%2019%20-%20Inserindo%20registros.sql)             | 3:00                    |
-| Aula 20  | Atualizando registros     | [Prática](./Scripts/Aula%2020%20-%20Consultando%20registros.sql)           | 7:00                    |
-| Aula 21  | Excluindo registros       | [Prática](./Scripts/Aula%2021%20-%20Atualizando%20registros.sql)           | 6:00                    |
+| Aula 16  | Introdução                | Teoria                                                                     | 1:00                    |
+| Aula 17  | Criando um banco de dados | [Prática](./Scripts/Aula%2017%20-%20Criando%20um%20banco%20de%20dados.sql) | 10:00                   |
+| Aula 18  | Criando uma tabela        | [Prática](./Scripts/Aula%2018%20-%20Criando%20uma%20tabela.sql)            | 8:00                    |
+| Aula 19  | Inserindo registros       | [Prática](./Scripts/Aula%2019%20-%20Inserindo%20registros.sql)             | 5:00                    |
+| Aula 20  | Consultando registros     | [Prática](./Scripts/Aula%2020%20-%20Consultando%20registros.sql)           | 3:00                    |
+| Aula 21  | Atualizando registros     | [Prática](./Scripts/Aula%2021%20-%20Atualizando%20registros.sql)           | 7:00                    |
+| Aula 22  | Excluindo registros       | [Prática](./Scripts/Aula%2022%20-%20Excluindo%20registros.sql)             | 6:00                    |
 
 
 ## Base de conhecimentos
