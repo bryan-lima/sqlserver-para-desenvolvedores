@@ -32,15 +32,17 @@
 | Aula 14  | Instalação do Azure Data Studio   | Prática      | 4:00                    |
 
 
-## Hands-On-SQL Básico
+## Módulo: Hands-On-SQL Básico
 
-- Introdução
-- Criando um banco de dados
-- Criando uma tabela
-- Inserindo registros
-- Consultando registros
-- Atualizando registros
-- Excluindo registros
+| **Aula** |         **Título**        |                                **Conteúdo**                                | **Carga Horária (min)** |
+|:--------:|:-------------------------:|:--------------------------------------------------------------------------:|:-----------------------:|
+| Aula 15  | Introdução                | Teoria                                                                     | 1:00                    |
+| Aula 16  | Criando um banco de dados | Prática                                                                    | 10:00                   |
+| Aula 17  | Criando uma tabela        | [Prática](./Scripts/Aula%2017%20-%20Criando%20um%20banco%20de%20dados.sql) | 8:00                    |
+| Aula 18  | Inserindo registros       | [Prática](./Scripts/Aula%2018%20-%20Criando%20uma%20tabela.sql)            | 5:00                    |
+| Aula 19  | Consultando registros     | [Prática](./Scripts/Aula%2019%20-%20Inserindo%20registros.sql)             | 3:00                    |
+| Aula 20  | Atualizando registros     | [Prática](./Scripts/Aula%2020%20-%20Consultando%20registros.sql)           | 7:00                    |
+| Aula 21  | Excluindo registros       | [Prática](./Scripts/Aula%2021%20-%20Atualizando%20registros.sql)           | 6:00                    |
 
 
 ## Base de conhecimentos
