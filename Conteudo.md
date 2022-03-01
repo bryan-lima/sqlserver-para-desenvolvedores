@@ -46,14 +46,16 @@
 | Aula 22  | Excluindo registros       | [Prática](./Scripts/Aula%2022%20-%20Excluindo%20registros.sql)             | 6:00                    |
 
 
-## Base de conhecimentos
+## Módulo: Base de conhecimentos
 
-- Introdução
-- O que é um índice?
-- O que são constraints?
-- O que é uma View?
-- O que são Stored Procedures?
-- O que são Functions?
+| **Aula** |          **Título**          | **Conteúdo** | **Carga Horária (min)** |
+|:--------:|:----------------------------:|:------------:|:-----------------------:|
+| Aula 23  | Introdução                   | Teoria       | 1:00                    |
+| Aula 24  | O que é um índice?           | Teoria       | 4:00                    |
+| Aula 25  | O que são constraints?       | Teoria       | 2:00                    |
+| Aula 26  | O que é uma View?            | Teoria       | 3:00                    |
+| Aula 27  | O que são Stored Procedures? | Teoria       | 3:00                    |
+| Aula 28  | O que são Functions?         | Teoria       | 4:00                    |
 
 
 ## Cláusulas e Operadores
