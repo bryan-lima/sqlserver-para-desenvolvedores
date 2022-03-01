@@ -22,12 +22,14 @@
 | Aula 10  | O que é T-SQL?                 | Teoria       | 2:00                    |
 
 
-## Ambiente
+## Módulo: Ambiente
 
-- Instalação do SQL Server
-- Instalaçao do SQL Server (Docker)
-- Instalação do SSMS
-- Instalação do Azure Data Studio
+| **Aula** |             **Título**            | **Conteúdo** | **Carga Horária (min)** |
+|:--------:|:---------------------------------:|:------------:|:-----------------------:|
+| Aula 11  | Instalação do SQL Server          | Prática      | 2:00                    |
+| Aula 12  | Instalaçao do SQL Server (Docker) | Prática      | 5:00                    |
+| Aula 13  | Instalação do SSMS                | Prática      | 4:00                    |
+| Aula 14  | Instalação do Azure Data Studio   | Prática      | 4:00                    |
 
 
 ## Hands-On-SQL Básico
