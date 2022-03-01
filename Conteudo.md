@@ -7,17 +7,19 @@
 | Aula 01  | Apresentação | Teoria       | 01:00                   |
 
 
-## Iniciando no mundo SQL
+## Módulo: Iniciando no mundo SQL
 
-- O que é SQL?
-- O que é SQL Server?
-- História do SQL Server
-- O que é um modelo relacional?
-- O que é um banco de dados?
-- O que é uma tabela?
-- O que é uma chave primária?
-- O que é uma chave estrangeira?
-- O que é T-SQL?
+| **Aula** |           **Título**           | **Conteúdo** | **Carga Horária (min)** |
+|:--------:|:------------------------------:|:------------:|:-----------------------:|
+| Aula 02  | O que é SQL?                   | Teoria       | 3:00                    |
+| Aula 03  | O que é SQL Server?            | Teoria       | 8:00                    |
+| Aula 04  | História do SQL Server         | Teoria       | 5:00                    |
+| Aula 05  | O que é um modelo relacional?  | Teoria       | 4:00                    |
+| Aula 06  | O que é um banco de dados?     | Teoria       | 1:00                    |
+| Aula 07  | O que é uma tabela?            | Teoria       | 2:00                    |
+| Aula 08  | O que é uma chave primária?    | Teoria       | 2:00                    |
+| Aula 09  | O que é uma chave estrangeira? | Teoria       | 2:00                    |
+| Aula 10  | O que é T-SQL?                 | Teoria       | 2:00                    |
 
 
 ## Ambiente
