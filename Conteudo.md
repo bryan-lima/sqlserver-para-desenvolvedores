@@ -58,22 +58,24 @@
 | Aula 28  | O que são Functions?         | Teoria       | 4:00                    |
 
 
-## Cláusulas e Operadores
+## Módulo: Cláusulas e Operadores
 
-- Introdução
-- Colocando a mão na massa
-- Distinct
-- Order By
-- Top/Fetch
-- Where
-- And/Or
-- Like
-- Max/Min
-- Count/Sum
-- Group By
-- Having
-- Operador In
-- Operador Between
+| **Aula** |        **Título**        |                                **Conteúdo**                               | **Carga Horária (min)** |
+|:--------:|:------------------------:|:-------------------------------------------------------------------------:|:-----------------------:|
+| Aula 29  | Introdução               | Teoria                                                                    | 1:00                    |
+| Aula 30  | Colocando a mão na massa | [Prática](./Scripts/Aula%2030%20-%20Colocando%20a%20mão%20na%20massa.sql) | 16:00                   |
+| Aula 31  | Distinct                 | [Prática](./Scripts/Aula%2031%20-%20Distinct.sql)                         | 4:00                    |
+| Aula 32  | Order By                 | [Prática](./Scripts/Aula%2032%20-%20Order%20By.sql)                       | 5:00                    |
+| Aula 33  | Top/Fetch                | [Prática](./Scripts/Aula%2033%20-%20Top%20%26%20Fetch.sql)                | 9:00                    |
+| Aula 34  | Where                    | [Prática](./Scripts/Aula%2034%20-%20Where.sql)                            | 4:00                    |
+| Aula 35  | And/Or                   | [Prática](./Scripts/Aula%2035%20-%20And%20%26%20Or.sql)                   | 5:00                    |
+| Aula 36  | Like                     | [Prática](./Scripts/Aula%2036%20-%20Like.sql)                             | 7:00                    |
+| Aula 37  | Max/Min                  | [Prática](./Scripts/Aula%2037%20-%20Max%20%26%20Min.sql)                  | 3:00                    |
+| Aula 38  | Count/Sum                | [Prática](./Scripts/Aula%2038%20-%20Count%20%26%20Sum.sql)                | 4:00                    |
+| Aula 39  | Group By                 | [Prática](./Scripts/Aula%2039%20-%20Group%20By.sql)                       | 4:00                    |
+| Aula 40  | Having                   | [Prática](./Scripts/Aula%2040%20-%20Having.sql)                           | 3:00                    |
+| Aula 41  | Operador In              | [Prática](./Scripts/Aula%2041%20-%20In.sql)                               | 3:00                    |
+| Aula 42  | Operador Between         | [Prática](./Scripts/Aula%2042%20-%20Between.sql)                          | 2:00                    |
 
 
 ## Joins
