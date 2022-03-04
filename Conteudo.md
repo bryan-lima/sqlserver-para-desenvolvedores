@@ -78,14 +78,16 @@
 | Aula 42  | Operador Between         | [Prática](./Scripts/Aula%2042%20-%20Between.sql)                          | 2:00                    |
 
 
-## Joins
+## Módulo: Joins
 
-- Introdução
-- Inner Join
-- Left Join
-- Right Join
-- Full Join
-- Union/Union All
+| **Aula** |   **Título**   |                            **Conteúdo**                            | **Carga Horária (min)** |
+|:--------:|:--------------:|:------------------------------------------------------------------:|:-----------------------:|
+| Aula 42  | Introdução     | Teoria                                                             | 1:00                    |
+| Aula 43  | Inner Join     | [Prática](./Scripts/Aula%2044%20-%20Inner%20Join.sql)              | 5:00                    |
+| Aula 44  | Left Join      | [Prática](./Scripts/Aula%2045%20-%20Left%20Join.sql)               | 5:00                    |
+| Aula 45  | Right Join     | [Prática](./Scripts/Aula%2046%20-%20Right%20Join.sql)              | 3:00                    |
+| Aula 46  | Full Join      | [Prática](./Scripts/Aula%2047%20-%20Full%20Join.sql)               | 4:00                    |
+| Aula 47  | Union/Union Al | [Prática](./Scripts/Aula%2048%20-%20Union%20%26%20Union%20All.sql) | 5:00                    |
 
 
 ## Transações
