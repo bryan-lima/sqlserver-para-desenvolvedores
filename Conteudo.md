@@ -125,16 +125,18 @@
 | Aula 64  | Restaurando backup | [Prática](./Scripts/Aula%2064%20-%20Restaurando%20backup.sql) | 6:00                    |
 
 
-## Tips & Tricks
+## Módulo: Tips & Tricks
 
-- Introdução
-- SQL Server Profiler
-- Hint NoLOCK
-- Plano de execução
-- Usando corretamente o índice
-- Desfragmentando índices
-- Contador de registros eficiente
-- CTE-Common Table Expression
+| **Aula** |            **Título**           |                                  **Conteúdo**                                  | **Carga Horária (min)** |
+|:--------:|:-------------------------------:|:------------------------------------------------------------------------------:|:-----------------------:|
+| Aula 65  | Introdução                      | Teoria                                                                         | 1:00                    |
+| Aula 66  | SQL Server Profiler             | Teoria                                                                         | 10:00                   |
+| Aula 67  | Hint NoLOCK                     | [Prática](./Scripts/Aula%2067%20-%20Hint%20NoLOCK.sql)                         | 6:00                    |
+| Aula 68  | Plano de execução               | [Prática](./Scripts/Aula%2068%20-%20Plano%20de%20execução.sql)                 | 10:00                   |
+| Aula 69  | Usando corretamente o índice    | [Prática](./Scripts/Aula%2069%20-%20Usando%20corretamente%20o%20índice.sql)    | 6:00                    |
+| Aula 70  | Desfragmentando índices         | [Prática](./Scripts/Aula%2070%20-%20Desfragmentando%20índices.sql)             | 5:00                    |
+| Aula 71  | Contador de registros eficiente | [Prática](/Scripts/Aula%2071%20-%20Contador%20de%20registros%20eficiente.sql)  | 9:00                    |
+| Aula 72  | CTE-Common Table Expression     | [Prática](./Scripts/Aula%2072%20-%20CTE%20-%20Commom%20Table%20Expression.sql) | 11:00                   |
 
 ## Encerramento
 
