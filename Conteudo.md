@@ -101,17 +101,19 @@
 
 
 
-## T-SQL
+## Módulo: T-SQL
 
-- Introdução
-- Conhecendo as funções
-- Criando funções
-- Criando uma Stored Procedure
-- Criando uma View
-- Criando sequências
-- Criando um campo novo
-- Removendo coluna de uma tabela
-- Renomeando objetos
+| **Aula** |           **Título**           |                                   **Conteúdo**                                  | **Carga Horária (min)** |
+|:--------:|:------------------------------:|:-------------------------------------------------------------------------------:|:-----------------------:|
+| Aula 53  | Introdução                     |                                                                                 | 1:00                    |
+| Aula 54  | Conhecendo as funções          | [Prática](./Scripts/Aula%2054%20-%20Conhecendo%20as%20funções.sql)              | 17:00                   |
+| Aula 55  | Criando funções                | [Prática](./Scripts/Aula%2055%20-%20Criando%20funções.sql)                      | 10:00                   |
+| Aula 56  | Criando uma Stored Procedure   | [Prática](./Scripts/Aula%2056%20-%20Criando%20uma%20Stored%20Procedure.sql)     | 9:00                    |
+| Aula 57  | Criando uma View               | [Prática](./Scripts/Aula%2057%20-%20Criando%20uma%20View.sql)                   | 7:00                    |
+| Aula 58  | Criando sequências             | [Prática](./Scripts/Aula%2058%20-%20Criando%20sequências.sql)                   | 7:00                    |
+| Aula 59  | Criando um campo novo          | [Prática](./Scripts/Aula%2059%20-%20Criando%20um%20campo%20novo.sql)            | 3:00                    |
+| Aula 60  | Removendo coluna de uma tabela | [Prática](./Scripts/Aula%2060%20-%20Removendo%20coluna%20de%20uma%20tabela.sql) | 3:00                    |
+| Aula 61  | Renomeando objetos             | [Prática](./Scripts/Aula%2061%20-%20Renomeando%20objetos.sql)                   | 4:00                    |
 
 
 ## Backup
