@@ -138,6 +138,8 @@
 | Aula 71  | Contador de registros eficiente | [Prática](/Scripts/Aula%2071%20-%20Contador%20de%20registros%20eficiente.sql)  | 9:00                    |
 | Aula 72  | CTE-Common Table Expression     | [Prática](./Scripts/Aula%2072%20-%20CTE%20-%20Commom%20Table%20Expression.sql) | 11:00                   |
 
-## Encerramento
+## Módulo: Encerramento
 
-- Agradecimentos
+| **Aula** |   **Título**   | **Conteúdo** | **Carga Horária (min)** |
+|:--------:|:--------------:|:------------:|:-----------------------:|
+| Aula 73  | Agradecimentos | Teoria       | 1:00                    |
