@@ -90,12 +90,14 @@
 | Aula 48  | Union/Union Al | [Prática](./Scripts/Aula%2048%20-%20Union%20%26%20Union%20All.sql) | 5:00                    |
 
 
-## Transações
+## Módulo: Transações
 
-- Introdução
-- O que é uma transação?
-- Criando uma transação
-- Save Point
+| **Aula** |       **Título**       |                            **Conteúdo**                            | **Carga Horária (min)** |
+|:--------:|:----------------------:|:------------------------------------------------------------------:|:-----------------------:|
+| Aula 49  | Introdução             | Teoria                                                             | 1:00                    |
+| Aula 50  | O que é uma transação? | Teoria                                                             | 5:00                    |
+| Aula 51  | Criando uma transação  | [Prática](./Scripts/Aula%2051%20-%20Criando%20uma%20transação.sql) | 12:00                   |
+| Aula 52  | Save Point             | [Prática](./Scripts/Aula%2052%20-%20Save%20Point.sql)              | 6:00                    |
 
 
 
