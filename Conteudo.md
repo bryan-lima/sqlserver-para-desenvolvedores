@@ -116,11 +116,13 @@
 | Aula 61  | Renomeando objetos             | [Prática](./Scripts/Aula%2061%20-%20Renomeando%20objetos.sql)                   | 4:00                    |
 
 
-## Backup
+## Módulo: Backup
 
-- Introdução
-- Gerando backup
-- Restaurando backup
+| **Aula** |     **Título**     |                          **Conteúdo**                         | **Carga Horária (min)** |
+|:--------:|:------------------:|:-------------------------------------------------------------:|:-----------------------:|
+| Aula 62  | Introdução         | Teoria                                                        | 1:00                    |
+| Aula 63  | Gerando backup     | [Prática](./Scripts/Aula%2063%20-%20Gerando%20backup.sql)     | 6:00                    |
+| Aula 64  | Restaurando backup | [Prática](./Scripts/Aula%2064%20-%20Restaurando%20backup.sql) | 6:00                    |
 
 
 ## Tips & Tricks
