@@ -1,10 +1,11 @@
 # SQL para Desenvolvedores
 
-Curso disponível na plataforma [desenvolvedor.io](https://desenvolvedor.io/)
+Curso disponível na plataforma [desenvolvedor.io](https://desenvolvedor.io/), ministrado por [Rafael Almeida](https://desenvolvedor.io/instrutor/rafael-almeida) ([@ralmsdeveloper](https://github.com/ralmsdeveloper/)).
 
 ## Ambiente
 
 - [Azure Data Studio](https://docs.microsoft.com/pt-br/sql/azure-data-studio/download-azure-data-studio)
+- [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms)
 - [Instalação do SQL Server (Docker)](https://docs.microsoft.com/pt-br/sql/linux/quickstart-install-connect-docker)
 
 
